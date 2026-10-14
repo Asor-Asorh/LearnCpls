@@ -1,11 +1,10 @@
-#include  <iostream> 
+#include <iostream>
 
 
-int main () 
+int main ()
 {
-
-    std::cout << "Hello Asor" << std::endl;
-    std::cout << "Hi " << std::endl;
-
+    std::cout << "Hi how are you ";
+    std::cout << "I am Asor" << std::endl;    
     return 0;
 }
+
